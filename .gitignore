@@ -1,0 +1,11 @@
+# Misc
+.DS_Store
+*.log
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
