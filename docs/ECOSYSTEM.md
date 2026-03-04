@@ -37,8 +37,8 @@ This document is machine-readable for agents navigating the ecosystem. See [ECOS
 | Repo | Type | Relationship | Description |
 |------|------|--------------|-------------|
 | [dao-os](https://github.com/luizfernandosg/dao-os) | Framework | Extends template | Visual DAO composer, on-chain modules (Safe, Hats, Gardens) |
-| [opengrants-os](https://github.com/organizational-os/opengrants-os) | Platform | Peer to dao-os | Multi-stakeholder grants management |
-| [ecosystem-canvas](https://github.com/luizfernandosg/ecosystem-canvas) | Library | Shared dependency | React Flow visualization; used by dao-os, opengrants-os |
+| [grants-os](https://github.com/luizfernandosg/grants-os) | Platform | Peer to dao-os | Multi-stakeholder grants management |
+| [ecosystem-canvas](https://github.com/luizfernandosg/ecosystem-canvas) | Library | Shared dependency | React Flow visualization; used by dao-os, grants-os |
 
 ---
 

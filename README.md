@@ -96,7 +96,7 @@ The framework defines standards for a linked ecosystem of repos. See [docs/ECOSY
 **By cluster:**
 - **Templates**: [organizational-os-template](../organizational-os-template/), [quartz-refi-template](../quartz-refi-template/)
 - **Agent runtimes**: [openclaw-source](../openclaw-source/), [regen_eliza-refi_dao](../regen_eliza-refi_dao/)
-- **DAO layer**: [dao-os](../dao-os/), [opengrants-os](../opengrants-os/), [ecosystem-canvas](../ecosystem-canvas/)
+- **DAO layer**: [dao-os](https://github.com/luizfernandosg/dao-os), [grants-os](https://github.com/luizfernandosg/grants-os), [ecosystem-canvas](https://github.com/luizfernandosg/ecosystem-canvas)
 - **Knowledge infra**: [koi-net](../koi-net/), [koi-net-integration](../koi-net-integration/)
 - **Federation hub**: [regen-coordination-hub](../regen-coordination-hub/)
 - **Implementation nodes**: [Regenerant-Catalunya](../Regenerant-Catalunya/), [Local-ReFi-Toolkit](../Local-ReFi-Toolkit/)
