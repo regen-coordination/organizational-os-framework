@@ -2,7 +2,7 @@
 
 **Complete registry of linked repositories with types, relationships, and descriptions.**
 
-This document is machine-readable for agents navigating the ecosystem. See [ECOSYSTEM-MAP.md](../../ECOSYSTEM-MAP.md) in `03 Libraries/` for the aggregated overview.
+This document is machine-readable for agents navigating the ecosystem. See [ECOSYSTEM-MAP.md](https://github.com/luizfernandosg/Zettelkasten/blob/main/03%20Libraries/ECOSYSTEM-MAP.md) in the Zettelkasten vault for the aggregated overview.
 
 ---
 
@@ -10,7 +10,7 @@ This document is machine-readable for agents navigating the ecosystem. See [ECOS
 
 | Repo | Type | Relationship | Description |
 |------|------|--------------|-------------|
-| [organizational-os-framework](../../organizational-os-framework/) | Standards | This repo | Defines workspace file system, skills, agents, federation protocol, schemas |
+| [organizational-os-framework](https://github.com/luizfernandosg/organizational-os-framework) | Standards | This repo | Defines workspace file system, skills, agents, federation protocol, schemas |
 
 ---
 
@@ -18,7 +18,7 @@ This document is machine-readable for agents navigating the ecosystem. See [ECOS
 
 | Repo | Type | Relationship | Description |
 |------|------|--------------|-------------|
-| [organizational-os-template](../../organizational-os-template/) | Template | Primary implementation | Fork + run setup; operational workspace with skills, memory, EIP-4824 |
+| [organizational-os-template](https://github.com/luizfernandosg/organizational-os-template) | Template | Primary implementation | Fork + run setup; operational workspace with skills, memory, EIP-4824 |
 | [quartz-refi-template](../../quartz-refi-template/) | Template | Documentation base | Quartz-based site template; upstream for ReFi websites |
 
 ---
@@ -36,9 +36,9 @@ This document is machine-readable for agents navigating the ecosystem. See [ECOS
 
 | Repo | Type | Relationship | Description |
 |------|------|--------------|-------------|
-| [dao-os](../../dao-os/) | Framework | Extends template | Visual DAO composer, on-chain modules (Safe, Hats, Gardens) |
-| [opengrants-os](../../opengrants-os/) | Platform | Peer to dao-os | Multi-stakeholder grants management |
-| [ecosystem-canvas](../../ecosystem-canvas/) | Library | Shared dependency | React Flow visualization; used by dao-os, opengrants-os |
+| [dao-os](https://github.com/luizfernandosg/dao-os) | Framework | Extends template | Visual DAO composer, on-chain modules (Safe, Hats, Gardens) |
+| [opengrants-os](https://github.com/organizational-os/opengrants-os) | Platform | Peer to dao-os | Multi-stakeholder grants management |
+| [ecosystem-canvas](https://github.com/luizfernandosg/ecosystem-canvas) | Library | Shared dependency | React Flow visualization; used by dao-os, opengrants-os |
 
 ---
 

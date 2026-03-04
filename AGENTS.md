@@ -81,14 +81,14 @@ schemas/                     # JSON-LD schema definitions
 ### Integration Points
 
 **Standards consumer**: This framework defines standards consumed by:
-- [organizational-os-template](../organizational-os-template/) — primary implementation template
-- [dao-os](../dao-os/) — DAO-specific extension
-- [regen-coordination-hub](../regen-coordination-hub/) — federation hub
-- [Regenerant-Catalunya](../Regenerant-Catalunya/), [Local-ReFi-Toolkit](../Local-ReFi-Toolkit/) — implementation nodes
+- [organizational-os-template](https://github.com/luizfernandosg/organizational-os-template) — primary implementation template
+- [dao-os](https://github.com/luizfernandosg/dao-os) — DAO-specific extension
+- [regen-coordination-hub](https://github.com/regen-coordination/regen-coordination-hub) — federation hub
+- [Regenerant-Catalunya](https://github.com/luizfernandosg/Zettelkasten/tree/main/03%20Libraries/Regenerant-Catalunya), [Local-ReFi-Toolkit](https://github.com/luizfernandosg/Zettelkasten/tree/main/03%20Libraries/Local-ReFi-Toolkit) — implementation nodes
 
 **External dependencies**: EIP-4824, DAOstar, KOI-net
 
-**Ecosystem registry**: See [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md) for complete cross-repo map. See [03 Libraries/ECOSYSTEM-MAP.md](../ECOSYSTEM-MAP.md) for aggregated overview.
+**Ecosystem registry**: See [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md) for complete cross-repo map. See [ECOSYSTEM-MAP.md](https://github.com/luizfernandosg/Zettelkasten/blob/main/03%20Libraries/ECOSYSTEM-MAP.md) in Zettelkasten for aggregated overview.
 
 **For Complete Context**: See root `CONTEXT-GATHERING-GUIDE.md` for organizational-os-framework section.
 
