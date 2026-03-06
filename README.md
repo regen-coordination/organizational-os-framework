@@ -2,6 +2,8 @@
 
 **Standards, patterns, and guidance for agent-native organizational workspaces**
 
+> This repository is a standalone mirror of `packages/framework` in the canonical [organizational-os monorepo](https://github.com/regen-coordination/organizational-os). For active development, use the monorepo.
+
 Organizational OS Framework (v2) provides comprehensive documentation, schemas, and patterns for transforming GitHub repositories into complete operational workspaces — designed to be operated by both humans and AI agents. Built on EIP-4824/DAOstar standards for organizational identity, and OpenClaw/AgentSkills conventions for agent compatibility.
 
 ---
